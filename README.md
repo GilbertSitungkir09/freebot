@@ -1,4 +1,4 @@
-# BotNuru
+# BOT GNS
 Thank for the script ya nurutomo:v
 
 ### 🤔 Bot Ga Respon?
